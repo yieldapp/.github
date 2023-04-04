@@ -1,4 +1,4 @@
-# ![yield-32x32](https://user-images.githubusercontent.com/1098715/229774674-9f99d748-8e21-4da2-9202-8292baad6271.png) Yield App
+# Yield App
 
 
 ## Description
