@@ -24,6 +24,6 @@
 ## Checklist / Guidelines:
 <!--- Ensure your submission follow these guidelines points -->
 
-- [ ] Pull Request title contains references to 1 or more ticket(s) between brackets or parenthesis (`<type>[JIR-xxx]: <subject>`)
+- [ ] Pull Request title contains references to 1 or more ticket(s) between brackets or parenthesis (`<type>: [JIRA-xxx] <subject>`)
 - [ ] `<type>` is defined as one of the following values: `feat`, `fix`, `docs`, `refactor`, `perf`, `style`, `ci`, `build`, `chore`
 - [ ] Commit messages should follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) format
