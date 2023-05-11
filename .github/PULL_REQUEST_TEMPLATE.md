@@ -20,6 +20,10 @@
 
 <!--- Please specify changes in envs, migrations etc. : -->
 
+## QA Instructions (if appropriate):
+
+<!--- Please specify instructions to assist QA when testing : -->
+
 
 ## Checklist / Guidelines:
 <!--- Ensure your submission follow these guidelines points -->
